@@ -1,0 +1,4 @@
+1. Open terminal in current directory
+2. Run "npm install"
+3. Run "npm run serve" to run the project
+4. Check localhost:8080 or localhost:8081/82/83..
